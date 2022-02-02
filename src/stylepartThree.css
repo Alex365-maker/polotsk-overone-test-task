@@ -1,0 +1,92 @@
+.wrapperThree {
+    max-width: 1232px;
+    margin: 0 auto;
+}
+
+.proven {
+    text-align: left;
+    color: #6A2E8E;
+    font-family: 'Fira Sans', sans-serif;
+    margin-top: 57px;
+    font-size: 46px;
+}
+
+.threeBloks {
+    margin-top: 49px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.blockthree {
+    max-width: 360px;
+    background-color: #FFFF;
+    padding-left: 21px;
+    padding-right: 21px;
+    box-shadow: 0px 4px 26px #4865902e;
+    border-radius: 10px;
+}
+
+.wrapperOfImg {
+    width: 196px;
+    margin: 0 auto;
+}
+
+.headerOfText {
+    max-width: 239px;
+    margin: 0 auto;
+    color: #751ABC;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 23px;
+    margin-top: 12px;
+    margin-bottom: 7px;
+
+}
+
+.textInBlock {
+    text-align: left;
+    margin-top: 7px;
+    margin-bottom: 50px;
+    max-width: 310px;
+}
+
+.threeBloks {
+    margin-bottom: 85px;
+}
+
+.threePertTwo {
+    background-image: url("./ImagesPartthree/фон4.png");
+    background-size: cover;
+}
+
+.whyUse {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 46px;
+    padding-top: 45px;
+    margin-bottom: 0px;
+}
+
+.highlightTitle {
+    color: #6A2E8E ;
+}
+
+.textWhy {
+    max-width: 926px;
+    margin: 0 auto;
+    margin-top: 43px;
+    font-family: 'Fira Sans', sans-serif;
+    color: #29083D;
+    font-size: 23px;
+}
+
+.buttonInPartThree {
+    margin-top: 44px;
+    width: 278px;
+    height: 49px;
+    border: none;
+    border-radius: 44px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 22px;
+    color: #FFFFFF;
+    background-color: #6A2E8E;
+    margin-bottom: 54px;
+}
