@@ -5,11 +5,13 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Header from './components/Header/Header';
 import CardBitcoin from './components/CardBitcoin/CardBitcoin';
+import PartTree from './components/PartTree/parttree'
 
 ReactDOM.render(
   <React.StrictMode>
     <Header />
     <CardBitcoin />
+    <PartTree />
   </React.StrictMode>,
   document.getElementById('root')
 );
