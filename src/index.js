@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Header from './components/Header/Header';
+import CardBitcoin from './components/CardBitcoin/CardBitcoin';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Header />
+    <CardBitcoin />
   </React.StrictMode>,
   document.getElementById('root')
 );
