@@ -1,12 +1,12 @@
 
-import classes from './App.module.css';
+import classes from './MainInfoView.module.css';
 import img2 from './photos/img2.png';
 import img3 from './photos/img3.png';
 import img4 from './photos/img4.png';
 
 
 
-function App() {
+function MainInfoView() {
   return (
     <div className={classes.container}>
       <div className={classes.wrapper}>
@@ -49,4 +49,4 @@ function App() {
   );
 }
 
-export default App;
+export default MainInfoView;
