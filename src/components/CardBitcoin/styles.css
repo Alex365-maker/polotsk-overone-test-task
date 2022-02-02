@@ -41,11 +41,6 @@ border-radius: 5px 5px 0px 0px;
     color: #29083D;
 }
 
-.container{
-    display: flex;
-    flex-direction: row;
-}
-
 .textBTC{
     font-family: Fira Sans;
 font-style: normal;
